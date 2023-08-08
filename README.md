@@ -6,7 +6,7 @@ This is a web-based application developed for medical and hospital facilities in
 # NATURE_SPA WEBSITE DESCRIPTION
  At Onile Nature Spa, we believe in the power of nature to heal and restore. Our spa is in a serene natural setting, where you can breathe fresh air and feel the sun on your skin. We offer a wide range of treatments to help you relax and rejuvenate, including massages, facials, and body wraps. Our experienced staff will work with you to create a personalized treatment plan that meets your needs. We use only the highest-quality natural products to ensure that you leave feeling refreshed and renewed. Our spa also offers a variety of wellness classes, such as yoga and meditation, to help you maintain a healthy mind and body. We invite you to come visit us and experience the healing power of nature for yourself!
 
-**PROJECT LINK**-------->
+**PROJECT LINK**--------> https://medisetti-nandini2003.github.io/Nature_spa-/index.html
 
 **DEMO VIDEO LINK**----->
 
